@@ -1,0 +1,226 @@
+@font-face {
+    font-family: Neo;
+    src: url(./Neometric-AltRegular.otf);
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+    font-family: Neo;
+}
+
+body{
+    background-color: #F5F9FA;
+}
+
+#name{
+    color: white;
+    background-color: #1B2433;
+    width: 100%;
+    height: 200px;
+    padding: 55px;
+    text-align: center;
+}
+
+#name h1{
+    font-size: 50px;
+}
+#name p{
+    font-style: italic;
+    font-size: 15px;
+}
+
+#more{
+    background-color: #FFFFFF;
+    margin-right: 100px;
+    margin-left: 100px;
+    padding: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+#more h2{
+    text-align: center;
+}
+
+#more p{
+    text-align: center;
+}
+
+#qual{
+    background-color: #DAF0FE;
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-top: 20px;
+    padding: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+#qual h2{
+    text-align: center;
+    font-weight: bolder;
+}
+
+#college{
+    background-color: #FFFFFF;
+    padding: 10px;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 120px;
+    margin-right: 120px;
+    padding: 15px;
+}
+
+#skill{
+    background-color: #FEF1C2;
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-top: 20px;
+    padding: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align: center;
+}
+
+#first{
+    background-color: #FFFFFF;
+    padding: 10px;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 120px;
+    margin-right: 120px;
+    padding: 15px;
+}
+
+#second{
+    background-color: #FFFFFF;
+    padding: 10px;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 120px;
+    margin-right: 120px;
+    padding: 15px;
+}
+
+#third{
+    background-color: #FFFFFF;
+    padding: 10px;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 120px;
+    margin-right: 120px;
+    padding: 15px;
+}
+#fourth{
+    background-color: #FFFFFF;
+    padding: 10px;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 120px;
+    margin-right: 120px;
+    padding: 15px;
+}
+
+#pro{
+    background-color: #EBE6FD;
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-top: 20px;
+    padding: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align: center;
+}
+
+#eins{
+    background-color: #FFFFFF;
+    padding: 10px;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 120px;
+    margin-right: 120px;
+    padding: 15px;
+    font-style: italic;
+}
+
+#zwei{
+    background-color: #FFFFFF;
+    padding: 10px;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 120px;
+    margin-right: 120px;
+    padding: 15px;
+    font-style: italic;
+}
+#drei{
+    background-color: #FFFFFF;
+    padding: 10px;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 120px;
+    margin-right: 120px;
+    padding: 15px;
+    font-style: italic;
+}
+
+#contact{
+    background-color:#D7FCE4;
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-top: 20px;
+    padding: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align: center;
+}
+
+#email{
+    background-color: #FFFFFF;
+    padding: 10px;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 120px;
+    margin-right: 120px;
+    padding: 15px;
+}
+
+#phone{
+    background-color: #FFFFFF;
+    padding: 10px;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 120px;
+    margin-right: 120px;
+    padding: 15px;
+}
+
+#social{
+    background-color: #FFFFFF;
+    padding: 10px;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 120px;
+    margin-right: 120px;
+    padding: 15px;
+}
+
+#footer{
+    color: white;
+    background-color: #101721;
+    text-align: center;
+    margin-top: 20px;
+    width: 100%;
+    height: 60px;
+    padding: 20px;
+    font-weight: 100;
+    font-size:12px;
+    font-family: 'Inter', sans-serif;
+}
